@@ -1,0 +1,3 @@
+ini adalah resoulsi tahun in
+- menyelesaikan aplikasi SIPIT
+- membuat program pembelajaran
